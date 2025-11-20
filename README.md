@@ -1,0 +1,2 @@
+# copilot-cli-main
+sack
